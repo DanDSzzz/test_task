@@ -1,0 +1,6 @@
+customer_id,purchase_date,purchase_amount,partner,days_since_last_purchase
+1,2023-08-01,100,PartnerA,10
+2,2023-08-02,200,PartnerA,15
+3,2023-09-01,600,PartnerA,5
+4,2023-09-03,800,PartnerB,6
+5,2023-09-01,150,PartnerB,4
